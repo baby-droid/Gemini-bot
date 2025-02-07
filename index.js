@@ -57,8 +57,8 @@ app.get('/webhook', (req, res) => {
 app.listen(3000, () => {
   console.log('Server running on port 3000');
 });{
-  "name": "whatsapp-gemini-bot",
-  "version": "1.0.0",
+  "name": "Ahmed-gemini-bot",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
